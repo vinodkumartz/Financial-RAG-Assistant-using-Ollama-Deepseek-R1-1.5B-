@@ -59,9 +59,6 @@ https://github.com/user-attachments/assets/6de83561-9a70-4ac4-a79a-301b35d4c993
 ## License
 This project is licensed under the MIT License.
 
-## Author
-[Gaurav Tailor](https://github.com/gauravtailor8520)
-
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/gaurav-tailor-bb4924223/)
 
